@@ -1,0 +1,18 @@
+#subscribe{
+    height: 300px
+}
+.custom-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.panda-card{
+    border: 0;
+    border-radius: 10px;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
